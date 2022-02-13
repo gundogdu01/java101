@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class mukemmelSayi {
 
     public static void main(String[] args) {
-        int n,total=0;
+        int n,total;
         Scanner input = new Scanner(System.in);
 
         for (int x =1; x<=3; x++){
