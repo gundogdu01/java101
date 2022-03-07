@@ -1,2 +1,2 @@
 # java101
-Patik.dev Java kursunda yapılan ödevler.
+Patika.dev Java101 kursunda yapılan ödevler.
