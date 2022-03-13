@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class sinifiGecmeDurumu {
+public class SinifiGecmeDurumu {
 
     public static void main(String[] args) {
         int mat, fiz, turk, kim, muz;
