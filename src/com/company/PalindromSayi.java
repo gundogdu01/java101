@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class palindromSayi {
+public class PalindromSayi {
 
     static boolean isPalindromic(int number) {
         int temp = number, lastNumber, reverseNumber = 0;
