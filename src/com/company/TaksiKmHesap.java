@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class taksiKmHesap {
+public class TaksiKmHesap {
 
     public static void main(String[] args) {
         int km;
