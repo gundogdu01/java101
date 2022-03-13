@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class desen {
+public class Desen {
     static int desen(int a, int b, boolean isReturned) {
         if (a > 0 && !isReturned) {
             System.out.print(a + " ");
