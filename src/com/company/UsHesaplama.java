@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class usHesaplama {
+public class UsHesaplama {
 
     public static void main(String[] args) {
         int n;
