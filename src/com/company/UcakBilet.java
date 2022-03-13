@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class ucakBilet {
+public class UcakBilet {
 
     public static void main(String[] args) {
         int yas, biletSekli;
