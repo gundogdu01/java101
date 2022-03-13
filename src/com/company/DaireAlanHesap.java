@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class daireAlanHesap {
+public class DaireAlanHesap {
 
     public static void main(String[] args) {
         int r, a;
