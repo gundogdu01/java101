@@ -14,7 +14,7 @@ import java.util.Scanner;
 //Oğlak Burcu : 22 Aralık - 21 Ocak
 //Kova Burcu : 22 Ocak - 19 Şubat
 //Balık Burcu : 20 Şubat - 20 Mart
-public class burcBulma {
+public class BurcBulma {
 
     public static void main(String[] args) {
         int month, day;
