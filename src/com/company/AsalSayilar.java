@@ -1,8 +1,6 @@
 package com.company;
 
-import java.util.Scanner;
-
-public class asalSayilar {
+public class AsalSayilar {
 
     public static void main(String[] args) {
         int counter;
