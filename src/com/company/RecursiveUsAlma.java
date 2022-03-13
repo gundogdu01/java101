@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class recursiveUsAlma {
+public class RecursiveUsAlma {
 
     static int power(int taban, int us){
         if(us!=0 && us>0){
