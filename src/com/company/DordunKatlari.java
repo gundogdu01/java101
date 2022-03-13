@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class dordunKatlari {
+public class DordunKatlari {
 
     public static void main(String[] args) {
         int total = 0, n;
