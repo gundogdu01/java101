@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hesapMakinesi {
+public class HesapMakinesi {
 
     public static void main(String[] args) {
         double sayi1, sayi2;
