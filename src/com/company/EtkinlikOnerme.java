@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class etkinlikOnerme {
+public class EtkinlikOnerme {
 
     public static void main(String[] args) {
         int heat;
