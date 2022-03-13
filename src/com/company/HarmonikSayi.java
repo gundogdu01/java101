@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class harmonikSayi {
+public class HarmonikSayi {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
