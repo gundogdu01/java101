@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class kombinasyon {
+public class Kombinasyon {
 
     public static void main(String[] args) {
         int n, r;
