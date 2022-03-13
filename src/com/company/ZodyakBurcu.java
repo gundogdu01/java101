@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class zodyakBurcu {
+public class ZodyakBurcu {
 
     public static void main(String[] args) {
         int dogumYili, zodyak;
