@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
 
     public static void main(String[] args) {
         int n,total;
