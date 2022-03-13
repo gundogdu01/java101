@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class recursiveAsalBulma {
+public class RecursiveAsalBulma {
 
     static boolean isPrime(int sayi, int a){
         if(a>=sayi){
