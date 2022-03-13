@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class buyuktenKucuge {
+public class BuyuktenKucuge {
 
     public static void main(String[] args) {
         int sayi1, sayi2, sayi3;
