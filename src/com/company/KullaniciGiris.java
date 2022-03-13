@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class kullaniciGiris {
+public class KullaniciGiris {
 
     public static void main(String[] args) {
         String userName, password;
