@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class ucgenAlanHesap {
+public class UcgenAlanHesap {
 
     public static void main(String[] args) {
         int a, b, c;
