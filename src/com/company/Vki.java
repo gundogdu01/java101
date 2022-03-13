@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class vki {
+public class Vki {
 
     public static void main(String[] args) {
         int kilo;
