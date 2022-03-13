@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class elmas {
+public class Elmas {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
