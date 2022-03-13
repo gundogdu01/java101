@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class minMax {
+public class MinMax {
 
     public static void main(String[] args) {
         int n;
